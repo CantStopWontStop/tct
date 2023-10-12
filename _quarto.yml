@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "They Really Did Clone Tyrone"
+  author: "Afromation Digital"
+  date: "10/4/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - spies.qmd
+    - clones.qmd
+    - produce.qmd
+    - consume.qmd  
+    - systematic.qmd
+    - unity.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

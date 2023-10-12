@@ -1,0 +1,9 @@
+# Preface {.unnumbered style="text-align: center"}
+
+The purpose of this digital book is to reinforce the lessons from the movie *They Cloned Tyrone.*
+
+Though categorized as science fiction, the messages and the plot of the movie are an allegory for real life predicaments Black people the world over face on a daily basis. In the following chapters, the key messages will be emphasized and expounded on. You'll be presented with information and expert testimonies regarding the real life situations alluded to in the film.
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2S3M1xFVdVg?si=N1DygC27wsoNs7Vd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
